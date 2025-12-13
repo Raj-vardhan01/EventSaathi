@@ -34,7 +34,7 @@ export default function Navbar({ user, setUser }) {
               onClick={() => navigate('/dashboard')} 
               className="text-2xl font-syne font-bold text-gradient cursor-pointer"
             >
-              EventConnect
+              SAATHI
             </h1>
             
             <div className="hidden md:flex space-x-2">
