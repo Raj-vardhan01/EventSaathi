@@ -14,7 +14,7 @@ export default function LandingPage() {
           <div className="text-center space-y-8">
             <div className="inline-block" data-testid="logo">
               <h1 className="text-6xl sm:text-7xl lg:text-8xl font-syne font-bold text-gradient mb-4">
-                EventConnect
+                SAATHI
               </h1>
             </div>
             
