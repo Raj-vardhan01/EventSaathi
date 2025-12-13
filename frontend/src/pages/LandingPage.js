@@ -56,7 +56,7 @@ export default function LandingPage() {
       {/* Features Section */}
       <div id="features" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <h2 className="text-4xl sm:text-5xl font-syne font-bold text-center mb-16 text-gradient">
-          Why EventConnect?
+          Why SAATHI?
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
