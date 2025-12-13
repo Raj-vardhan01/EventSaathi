@@ -114,7 +114,7 @@ export default function LandingPage() {
       {/* Footer */}
       <div className="border-t border-white/10 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-muted-foreground">
-          <p>&copy; 2025 EventConnect. Built for VibeHack Days 2025.</p>
+          <p>&copy; 2025 SAATHI. Built for VibeHack Days 2025.</p>
         </div>
       </div>
     </div>
