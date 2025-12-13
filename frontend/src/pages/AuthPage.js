@@ -67,7 +67,7 @@ export default function AuthPage({ setUser }) {
 
         <div className="glass-panel p-8">
           <h1 className="text-4xl font-syne font-bold text-gradient mb-2">
-            {isLogin ? 'Welcome Back' : 'Join EventConnect'}
+            {isLogin ? 'Welcome Back' : 'Join SAATHI'}
           </h1>
           <p className="text-muted-foreground mb-8">
             {isLogin ? 'Login to continue your journey' : 'Create your account to get started'}
